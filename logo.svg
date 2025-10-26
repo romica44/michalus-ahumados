@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="256" viewBox="0 0 1024 256">
+  <defs>
+    <linearGradient id="smoke" x1="0" x2="0" y1="1" y2="0">
+      <stop offset="0%" stop-color="#2B2B2B" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#E0A243" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="256" fill="none"/>
+  <g transform="translate(40,20)">
+    <path d="M0 200 L0 40 L38 110 L76 40 L76 200" fill="none" stroke="#C44536" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M110 200 C100 170, 130 150, 120 120 C110 90, 150 80, 140 50"
+          fill="none" stroke="url(#smoke)" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(220,40)">
+    <text x="0" y="90" font-family="Montserrat, Poppins, Arial" font-size="86" font-weight="800" fill="#2B2B2B">Michalus</text>
+    <text x="0" y="150" font-family="Montserrat, Poppins, Arial" font-size="64" font-weight="700" fill="#C44536">Ahumados</text>
+    <text x="0" y="190" font-family="Montserrat, Poppins, Arial" font-size="28" fill="#E0A243">Humo lento, sabor eterno</text>
+  </g>
+</svg>
